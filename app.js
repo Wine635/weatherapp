@@ -4,7 +4,6 @@ let time = document.querySelector("img.time");
 let icon = document.querySelector(".icon");
 let details = document.querySelector(".details");
 
-
 //getting datas for APIs
 const updateCity = async (city)=>{
 
